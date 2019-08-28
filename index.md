@@ -1,6 +1,6 @@
 ## Welcome to Aaron's Portfolio for Product Management!
 
-### 1) <a href="https://github.com/abretz47/abretz47.github.io/memo.md" target="memo">Application Support  Memo</a>
+### 1) <a href="https://github.com/abretz47/abretz47.github.io/blob/master/memo.md" target="memo">Application Support  Memo</a>
 The reader should be able to get a glipse of Aaron's ability to troubleshoot and explain difficult application support issues. This was a memo written prior to a large meeting of business stakeholders needing an understanding of the details surrounding a series of application outages. 
 
 ### 2) <a href="https://www.figma.com/proto/ePV00JSMUCSmvNLR4BsnHI/Hierarchical-View-(Public)?node-id=373" target="proto">Dashboard Prototype</a>
